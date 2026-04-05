@@ -1,6 +1,10 @@
 # TBD Course – Notes & Project
 
-## About the Course
+<p align="center">
+  <img src="https://media.giphy.com/media/..." width="250"/>
+</p>
+
+## 🌸 About the Course
 
 This repository contains my notes and work for the course **Taller de Base de Datos (Database Workshop - TBD)**, taught by **Ing. Juan Marcelo Flores Soliz**.
 
@@ -8,18 +12,7 @@ The purpose of this repository is to document, organize, and reinforce the conce
 
 ---
 
-## What I Am Doing
-
-In this repository, I am:
-
-* Organizing and refining class notes
-* Documenting key **database idioms**
-* Practicing **conceptual and logical data modeling**
-* Building a structured knowledge base for future reference
-
----
-
-## Project Overview
+## 🌸 Project Overview
 
 The main project models a **personal repository system oriented to mobile devices**.
 
@@ -60,10 +53,50 @@ Each specialized entity includes attributes specific to its nature, which do not
 
 ---
 
-## Learning Objectives
+## 🌸 Repository Structure
+
+### ProyectoNetbeans
+
+This folder contains the main application developed in Java.
+
+* The project must be opened and executed using Apache NetBeans
+* It includes the implementation of the system described above
+* Make sure your Java environment is properly configured before running
+
+---
+
+### database
+
+This folder contains the database scripts and related resources.
+
+* Designed to work with PostgreSQL
+* Can be managed using pgAdmin 4
+* Includes the necessary structure to set up the database for the project
+
+---
+
+### apuntes
+
+This folder contains personal notes and study material for the course.
+
+* Includes summaries and key concepts
+* Focused on database idioms and modeling practices
+
+---
+
+## 🌸 Learning Objectives
 
 * Apply database modeling concepts to real-world problems
 * Understand entity relationships and specialization
 * Strengthen system design and abstraction skills
 
 ---
+
+## 🌸Requirements
+
+To run this project properly, you should have:
+
+* Java
+* Apache NetBeans
+* PostgreSQL
+* pgAdmin 4
