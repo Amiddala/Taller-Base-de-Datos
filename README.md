@@ -1,8 +1,7 @@
 # TBD Course – Notes & Project
 
-<p align="center">
-  <img src="https://media.giphy.com/media/..." width="250"/>
-</p>
+![Java](https://img.shields.io/badge/Java-pink?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lilac?style=for-the-badge)
 
 ## 🌸 About the Course
 
@@ -27,29 +26,6 @@ When users change their mobile devices, they often lose important information su
 
 This occurs due to the absence of an organized and reliable backup system.
 
----
-
-### Solution
-
-The proposed system allows a **user** to store and manage files within **personal repositories**.
-
-Each file contains the following attributes:
-
-* Type
-* Size
-* Owner
-* Storage date
-
----
-
-### Data Modeling Approach
-
-The system applies **specialization (inheritance)** in the data model:
-
-* **Multimedia files** (images, audio, etc.)
-* **Application configuration files**
-
-Each specialized entity includes attributes specific to its nature, which do not apply to other file types.
 
 ---
 
@@ -100,3 +76,12 @@ To run this project properly, you should have:
 * Apache NetBeans
 * PostgreSQL
 * pgAdmin 4
+
+
+---
+
+ Thanks for reading uwu
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e9/26/16/e9261611196ebd98b2d76ab0627699a0.gif" width="250"/>
+</p>
